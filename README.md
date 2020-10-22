@@ -20,7 +20,7 @@ The sequence to sequence model aims to map a given input to it's corresponding o
 We use the encoder-decoder architecture for our problem statement:
 
 <p align="center">
-  <img src=./Assets/EncoderDecoder.png width = "450" height = "300"/>
+  <img src=./Assets/EncoderDecoder.png width = "650" height = "300"/>
 </p>
 
 The encoder and decoder parts are basically two different recurrent neural network models combined together to make a complex model. In our case we've used LSTM in our model to get riddance from the vanishing gradient problem in RNN.
