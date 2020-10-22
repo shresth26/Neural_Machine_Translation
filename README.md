@@ -1,13 +1,13 @@
 
-### What is our aim?
+## What is our aim?
 
 In this project we aim to map the input German sentences to English sentences as output having the same semantic meaning, this is commonly known as machine translation and we'll implement it from scratch.
 
-### What do you mean by Machine Translation?
+## What do you mean by Machine Translation?
 
 In machine translation we aim to convert the source text in one language to target text in another language using statistical/neural models.
 When we use neural network models to perform machine translation it is called neural machine translation.
-
+A well known example is the Google Translate feature developed by Google.
 
 <p align="center">
   <img src=./Assets/image.png width = "450" height = "300"/>
